@@ -5,6 +5,7 @@ public class Person {
     private String name;
     private Integer age;
     private String address;
+    private String character;
 
     public String getId() {
         return id;
